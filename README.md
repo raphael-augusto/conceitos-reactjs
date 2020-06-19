@@ -4,7 +4,7 @@
 
 ## **Instalação**
 
-Você precisará ter apenas o NodeJS instalado na sua máquina, e após isso, clonar este repositório:
+Você precisará ter apenas clonar este repositório:
 
 $ git clone https://github.com/raphael-augusto/conceitos-reactjs.git
 
